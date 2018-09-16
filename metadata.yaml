@@ -1,0 +1,30 @@
+_repo: The-Oregon-Question_51843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gallatin, Albert
+    aliases:
+    - Gallatin, Abraham Alfonse Albert
+    - Gallatin, Abraham Albert Alphonse
+    birthdate: 1761
+    deathdate: 1849
+    gutenberg_agent_id: '35718'
+    url: http://www.gutenberg.org/2009/agents/35718
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Gallatin
+description: ''
+gutenberg_issued: '2016-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51843'
+  lccn: 03028513
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'Oregon question'
+- !lcsh 'Northwest boundary of the United States'
+- GITenberg
+title: The Oregon Question
+url: http://www.gutenberg.org/ebooks/51843
